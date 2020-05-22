@@ -1,0 +1,53 @@
+{
+"projects": [
+
+{"id": "0",
+"project_name": "Random Quote Generator",
+"description": "Quotes generated randomly when a button is clicked" ,
+"technologies":"JavaScript, HTML, CSS",
+"live_link":"http://deanyrepos.github.io/",
+"github_link":"https://github.com/DeanYRepos/DeanYRepos.github.io-Unit6",
+"image_urls":"/static/images/profile_pic.jpg"
+
+
+},{"id": "1",
+    "project_name": "List Pagination and Filtering",
+    "description": "A list of users filtered and displayed on multiple pages " ,
+    "technologies":"JavaScript, HTML, CSS",
+    "live_link":"http://deanyrepos.github.io/",
+    "github_link":"https://github.com/DeanYRepos/DeanYRepos.github.io-Unit6",
+    "image_urls":""
+    
+    
+    },{"id": "2",
+        "project_name": "Interactive Form",
+        "description": "Adding interactiveness to a form to collect and submit information from a user" ,
+        "technologies":"JavaScript, HTML, CSS",
+        "live_link":"http://deanyrepos.github.io/",
+        "github_link":"https://github.com/DeanYRepos/DeanYRepos.github.io-Unit6",
+        "image_urls":""
+        
+        
+        },{"id": "3",
+            "project_name": "OOP Game Show App",
+            "description": "Browser based phrase guessing game created with Object Orientated Programming" ,
+            "technologies":"JavaScript, HTML, CSS",
+            "live_link":"http://deanyrepos.github.io/",
+            "github_link":"https://github.com/DeanYRepos/DeanYRepos.github.io-Unit6",
+            "image_urls":""
+            
+            
+            },{"id": "4",
+                "project_name": "Public API Requests",
+                "description": "Using a third-party API to create and display an employee directory with interactive modal" ,
+                "technologies":"JavaScript, HTML, CSS",
+                "live_link":"http://deanyrepos.github.io/",
+                "github_link":"https://github.com/DeanYRepos/DeanYRepos.github.io-Unit6",
+                "image_urls":""
+                
+                
+                }
+
+
+]
+}
