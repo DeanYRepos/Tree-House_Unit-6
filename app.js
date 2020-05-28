@@ -7,7 +7,7 @@ const app = express();
 
 app.set('view engine', 'pug');
 app.use(express.json());
-app.use('/static', express.static('public','images'));
+app.use('/static', express.static('public'));
 
     
 app.get('/',(req,res) => {

@@ -7,25 +7,25 @@
 "technologies":"JavaScript, HTML, CSS",
 "live_link":"http://deanyrepos.github.io/",
 "github_link":"https://github.com/DeanYRepos/DeanYRepos.github.io-Unit6",
-"image_urls":"/static/images/profile_pic.jpg"
+"image_urls":["/static/images/Unit1_ls.png","/static/images/Unit1_main.png"]
 
 
 },{"id": "1",
-    "project_name": "List Pagination and Filtering",
+    "project_name":"List Pagination and Filtering",
     "description": "A list of users filtered and displayed on multiple pages " ,
     "technologies":"JavaScript, HTML, CSS",
     "live_link":"http://deanyrepos.github.io/",
     "github_link":"https://github.com/DeanYRepos/DeanYRepos.github.io-Unit6",
-    "image_urls":""
+    "image_urls":["/static/images/Unit2_ls.png","/static/images/Unit2_main.png"]
     
     
     },{"id": "2",
-        "project_name": "Interactive Form",
+        "project_name":"Interactive Form",
         "description": "Adding interactiveness to a form to collect and submit information from a user" ,
         "technologies":"JavaScript, HTML, CSS",
         "live_link":"http://deanyrepos.github.io/",
         "github_link":"https://github.com/DeanYRepos/DeanYRepos.github.io-Unit6",
-        "image_urls":""
+        "image_urls":["/static/images/Unit3_ls.png","/static/images/Unit3_main.png"]
         
         
         },{"id": "3",
@@ -34,7 +34,7 @@
             "technologies":"JavaScript, HTML, CSS",
             "live_link":"http://deanyrepos.github.io/",
             "github_link":"https://github.com/DeanYRepos/DeanYRepos.github.io-Unit6",
-            "image_urls":""
+            "image_urls":["/static/images/Unit4_ls1.png","/static/images/Unit4_ls2.png","/static/images/Unit4_ls3.png","/static/images/Unit4_main.png"]
             
             
             },{"id": "4",
@@ -43,7 +43,7 @@
                 "technologies":"JavaScript, HTML, CSS",
                 "live_link":"http://deanyrepos.github.io/",
                 "github_link":"https://github.com/DeanYRepos/DeanYRepos.github.io-Unit6",
-                "image_urls":""
+                "image_urls":["/static/images/Unit5_ls1.png","/static/images/Unit5_ls2.png","/static/images/Unit5_main.png"]
                 
                 
                 }
