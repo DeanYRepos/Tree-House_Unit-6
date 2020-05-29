@@ -23,13 +23,14 @@ app.get('/',(req,res,next) => {
 app.get('/about',(req,res,next) => {
     res.render('about');
 })
-app.get('/projects:id',(req,res,next) => {
+app.get('/projects/:id',(req,res,next) => {
     const projectId = req.params.id;
     
     const project = projects.find( ({ id }) => id === +projectId );
     if (project) {
     res.render('project', { project });
     } else {
+        
         res.sendStatus(404);
     }
 });  

@@ -17,11 +17,11 @@ block content
       .cell.portfolio-meta.small-6.medium-2.large-3
         h6 Technologies
 
-        //- Use an `each` iterator to replace the li tags below and interpolation to dynamically add the technologies used in each project.
-        ul
-          each technology in technologies
+           //- Use an `each` iterator to replace the li tags below and interpolation to dynamically add the technologies used in each project.
+      ul
+        each technology in project.technologies
       
-            li= technology
+          li= technology
         
     
 
@@ -30,6 +30,5 @@ block content
         a.button.expanded(href='') GitHub Repo
     
     //- Replace the URLs in the src attributes below with template literals and interpolation to dynamically add three project images.  You only have to add one image.  But adding more images to show your app in different states demonstrates a level of thoroughness and professionalism that potential employers will like to see. 
-    img.image(src='https://placehold.it/1200x550')
-    img.image(src='https://placehold.it/1200x550')
-    img.image(src='https://placehold.it/1200x550')
+    img.image(src=`projects/${project.image_urls[0]}`)
+  
