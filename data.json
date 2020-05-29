@@ -1,7 +1,7 @@
 {
 "projects": [
 
-{"id": "0",
+{"id": 0,
 "project_name": "Random Quote Generator",
 "description": "Quotes generated randomly when a button is clicked" ,
 "technologies":"JavaScript, HTML, CSS",
@@ -10,7 +10,7 @@
 "image_urls":["/static/images/Unit1_ls.png","/static/images/Unit1_main.png"]
 
 
-},{"id": "1",
+},{"id": 1,
     "project_name":"List Pagination and Filtering",
     "description": "A list of users filtered and displayed on multiple pages " ,
     "technologies":"JavaScript, HTML, CSS",
@@ -19,7 +19,7 @@
     "image_urls":["/static/images/Unit2_ls.png","/static/images/Unit2_main.png"]
     
     
-    },{"id": "2",
+    },{"id": 2,
         "project_name":"Interactive Form",
         "description": "Adding interactiveness to a form to collect and submit information from a user" ,
         "technologies":"JavaScript, HTML, CSS",
@@ -28,22 +28,22 @@
         "image_urls":["/static/images/Unit3_ls.png","/static/images/Unit3_main.png"]
         
         
-        },{"id": "3",
+        },{"id": 3,
             "project_name": "OOP Game Show App",
             "description": "Browser based phrase guessing game created with Object Orientated Programming" ,
             "technologies":"JavaScript, HTML, CSS",
             "live_link":"http://deanyrepos.github.io/",
             "github_link":"https://github.com/DeanYRepos/DeanYRepos.github.io-Unit6",
-            "image_urls":["/static/images/Unit4_ls1.png","/static/images/Unit4_ls2.png","/static/images/Unit4_ls3.png","/static/images/Unit4_main.png"]
+            "image_urls":["/static/images/Unit4_ls1.png","/static/images/Unit4_main.png","/static/images/Unit4_ls2.png","/static/images/Unit4_ls3.png"]
             
             
-            },{"id": "4",
+            },{"id": 4,
                 "project_name": "Public API Requests",
                 "description": "Using a third-party API to create and display an employee directory with interactive modal" ,
                 "technologies":"JavaScript, HTML, CSS",
                 "live_link":"http://deanyrepos.github.io/",
                 "github_link":"https://github.com/DeanYRepos/DeanYRepos.github.io-Unit6",
-                "image_urls":["/static/images/Unit5_ls1.png","/static/images/Unit5_ls2.png","/static/images/Unit5_main.png"]
+                "image_urls":["/static/images/Unit5_ls1.png","/static/images/Unit5_main.png","/static/images/Unit5_ls2.png"]
                 
                 
                 }
