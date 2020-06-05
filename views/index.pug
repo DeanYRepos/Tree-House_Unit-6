@@ -18,7 +18,7 @@ block content
       each project in projects
         .cell
           a(href=`/projects/${project.id}`)
-            img(src=`${project.image_urls[1]}`)
+            img(src=`${project.image_urls[0]}`)
             h5= project.project_name
             //- Use a combination of interpolation and template literals as needed to dynamically generate the the routes in the href, as well as the img's src and the projects title.
           
