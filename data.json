@@ -7,7 +7,7 @@
 "description": "Quotes generated randomly when a button is clicked" ,
 "technologies":["JavaScript", "HTML", "CSS"],
 "live_link":"http://deanyrepos.github.io/",
-"github_link":"https://github.com/DeanYRepos/Tree-House_Unit-6",
+"github_link":"https://github.com/DeanYRepos/Treehouse-project-1",
 "image_urls":["/static/images/Unit1_main.png","/static/images/Unit1_ls.png"]
 
 
@@ -16,7 +16,7 @@
     "description": "A list of users filtered and displayed on multiple pages " ,
     "technologies":["JavaScript", "HTML", "CSS"],
     "live_link":"http://deanyrepos.github.io/",
-    "github_link":"https://github.com/DeanYRepos/Tree-House_Unit-6",
+    "github_link":"https://github.com/DeanYRepos/Tree-House-Unit2",
     "image_urls":["/static/images/Unit2_main.png","/static/images/Unit2_ls.png"]
     
     
@@ -25,7 +25,7 @@
         "description": "Adding interactiveness to a form to collect and submit information from a user" ,
         "technologies":["JavaScript","JQuery", "HTML", "CSS"],
         "live_link":"http://deanyrepos.github.io/",
-        "github_link":"https://github.com/DeanYRepos/Tree-House_Unit-6",
+        "github_link":"https://github.com/DeanYRepos/Tree-House_Unit3",
         "image_urls":["/static/images/Unit3_main.png","/static/images/Unit3_ls.png"]
         
         
@@ -34,7 +34,7 @@
             "description": "Browser based phrase guessing game created with Object Orientated Programming" ,
             "technologies":["JavaScript", "HTML", "CSS"],
             "live_link":"http://deanyrepos.github.io/",
-            "github_link":"https://github.com/DeanYRepos/Tree-House_Unit-6",
+            "github_link":"https://github.com/DeanYRepos/Tree-House_Unit4",
             "image_urls":["/static/images/Unit4_main.png","/static/images/Unit4_ls1.png","/static/images/Unit4_ls2.png","/static/images/Unit4_ls3.png"]
             
             
@@ -43,7 +43,7 @@
                 "description": "Using a third-party API to create and display an employee directory with interactive modal" ,
                 "technologies":["JavaScript", "HTML", "CSS"],
                 "live_link":"http://deanyrepos.github.io/",
-                "github_link":"https://github.com/DeanYRepos/Tree-House_Unit-6",
+                "github_link":"https://github.com/DeanYRepos/Tree-House_Unit-5",
                 "image_urls":["/static/images/Unit5_main.png","/static/images/Unit5_ls1.png","/static/images/Unit5_ls2.png"]
                 
                 
