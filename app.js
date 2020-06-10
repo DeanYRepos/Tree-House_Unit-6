@@ -9,15 +9,16 @@ app.set('view engine', 'pug');
 app.use(express.json());
 app.use('/static', express.static('public'));
 
-app.use((req,res,next) => {
-console.log('Oop!');
+app.use((req, res, next) => {
+console.log('Oops!');
 
-const err = new Error ("Somthing went wrong!");
-next();
-})
+const err = new Error ('Somthing went wrong!');
+err.status = 500;
+next(err);
+});
 
     
-app.get('/',(req,res,next) => {
+app.get('/',(req, res, next) => {
     res.render('index', {projects});
 }) 
 app.get('/about',(req,res,next) => {
@@ -36,6 +37,13 @@ app.get('/projects/:id',(req,res,next) => {
     }
     
 });  
+
+app.use((err, req, res, next) => {
+    res.locals.error = err;
+    res.status(err.status);
+    res.render('error');
+  
+}); 
 
 
 
