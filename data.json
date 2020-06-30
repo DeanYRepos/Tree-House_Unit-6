@@ -6,7 +6,7 @@
 "project_name": "Random Quote Generator",
 "description": "Quotes generated randomly when a button is clicked" ,
 "technologies":["JavaScript", "HTML", "CSS"],
-"live_link":"http://deanyrepos.github.io/",
+"live_link":" https://deanyrepos.github.io/Tree-House_Unit-6/Treehouse-project-1",
 "github_link":"https://github.com/DeanYRepos/Treehouse-project-1",
 "image_urls":["/static/images/Unit1_main.png","/static/images/Unit1_ls.png"]
 
@@ -15,7 +15,7 @@
     "project_name":"List Pagination and Filtering",
     "description": "A list of users filtered and displayed on multiple pages " ,
     "technologies":["JavaScript", "HTML", "CSS"],
-    "live_link":"http://deanyrepos.github.io/",
+    "live_link":"http://deanyrepos.github.io/Treehouse-project-2",
     "github_link":"https://github.com/DeanYRepos/Tree-House-Unit2",
     "image_urls":["/static/images/Unit2_main.png","/static/images/Unit2_ls.png"]
     
@@ -24,7 +24,7 @@
         "project_name":"Interactive Form",
         "description": "Adding interactiveness to a form to collect and submit information from a user" ,
         "technologies":["JavaScript","JQuery", "HTML", "CSS"],
-        "live_link":"http://deanyrepos.github.io/",
+        "live_link":"http://deanyrepos.github.io/Treehouse-project-3",
         "github_link":"https://github.com/DeanYRepos/Tree-House_Unit3",
         "image_urls":["/static/images/Unit3_main.png","/static/images/Unit3_ls.png"]
         
@@ -33,7 +33,7 @@
             "project_name": "OOP Game Show App",
             "description": "Browser based phrase guessing game created with Object Orientated Programming" ,
             "technologies":["JavaScript", "HTML", "CSS"],
-            "live_link":"http://deanyrepos.github.io/",
+            "live_link":"http://deanyrepos.github.io/Treehouse-project-4",
             "github_link":"https://github.com/DeanYRepos/Tree-House_Unit4",
             "image_urls":["/static/images/Unit4_main.png","/static/images/Unit4_ls1.png","/static/images/Unit4_ls2.png","/static/images/Unit4_ls3.png"]
             
@@ -42,7 +42,7 @@
                 "project_name": "Public API Requests",
                 "description": "Using a third-party API to create and display an employee directory with interactive modal" ,
                 "technologies":["JavaScript", "HTML", "CSS"],
-                "live_link":"http://deanyrepos.github.io/",
+                "live_link":"http://deanyrepos.github.io/Treehouse-project-5",
                 "github_link":"https://github.com/DeanYRepos/Tree-House_Unit-5",
                 "image_urls":["/static/images/Unit5_main.png","/static/images/Unit5_ls1.png","/static/images/Unit5_ls2.png"]
                 
