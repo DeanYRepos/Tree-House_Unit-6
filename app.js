@@ -3,13 +3,11 @@ const {projects} = require('./data.json');
 const port = process.env.PORT || 3000;
 const app = express();
 
-
-
 app.set('view engine', 'pug');
 app.use(express.json());
 app.use('/static', express.static('public'));
 
-    
+
 app.get('/',(req, res, next) => {
     res.render('index', {projects});
     next();
@@ -46,9 +44,6 @@ app.use((err, req, res, next) => {
     
   
 }); 
-
-
-
 
 
 
