@@ -10,11 +10,11 @@ app.use('/static', express.static('public'));
 
 app.get('/',(req, res, next) => {
     res.render('index', {projects});
-    next();
+    
 }) 
 app.get('/about',(req,res,next) => {
     res.render('about');
-    next();
+    
 })
 app.get('/projects/:id',(req,res,next) => {
     const projectId = req.params.id;
@@ -27,7 +27,7 @@ app.get('/projects/:id',(req,res,next) => {
         
         res.sendStatus(404);
     }
-    next();
+    
 });  
 
 app.use((req, res, next) => {
