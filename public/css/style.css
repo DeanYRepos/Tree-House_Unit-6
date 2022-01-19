@@ -1,6 +1,6 @@
 body{
 
-  background: #888C64;
+  background: white;
   
   }
 h1,h2,h3,h4,h5,p{
@@ -43,18 +43,18 @@ h1,h2,h3,h4,h5,p{
 }
 
 a{
-  color: #333;
+  color: green
 }
 
 a:hover{
-  color: #111;
+  color: limegreen
 }
 
 .image{
   display: inline-block;
   max-width: 100%;
   margin-bottom: 1rem;
-  border: solid 4px #555936;
+  border: solid 4px black;
   border-radius: 0;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   line-height: 0;
@@ -62,7 +62,7 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #555936;
+  background: black;
   color: #888C64;
   box-shadow: none !important;
 }
@@ -118,7 +118,9 @@ a:hover{
 
   .portfolio-index .thumbnail{
     margin-bottom: 5px;
-    border: #888C64
+    border: #888C64;
+    
+    
   }
 
   .portfolio-index a{

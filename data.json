@@ -47,7 +47,29 @@
                 "image_urls":["/static/images/Unit5_main.png","/static/images/Unit5_ls1.png","/static/images/Unit5_ls2.png","/static/images/Unit5_ls3.png"]
                 
                 
-                }
+                },{"id":5,
+                    "project_name": "React Gallery App",
+                    "description": "Using the React library to create an image gallery app. With the help of 'MVC' (Model, View, Controller) library, the app is built in the style of modern single page applications to keep it fast, modular, and in sync with current web development trends." ,
+                    "technologies":["JavaScript","Axios","React", "HTML", "CSS"],
+                    "live_link":"https://deans-react-gallery-app.netlify.app",
+                    "github_link":"https://github.com/DeanYRepos/Tree-House_Unit7",
+                    "image_urls":["/static/images/Unit7_main.png","/static/images/Unit7_ls1.png","/static/images/Unit7_ls2.png","/static/images/Unit7_ls3.png"]
+                    
+
+
+                     }
+                     ,
+                     {"id":6,
+                    "project_name": "SQL Library Manager",
+                    "description": "Built with Express, Pug, and a SQLite database with the Sequelize ORM, this library web app is meant to demonstrate CRUD (create, retrieve, update, delete) operations to list, add, update, and delete books from the database. " ,
+                    "technologies":["JavaScript", "Node.js", "Express", "Pug", "SQLite", "Sequelize","HTML","CSS"],
+                    "live_link":"https://sql-library-app.herokuapp.com/",
+                    "github_link":"https://github.com/DeanYRepos/Tree-House_Unit8",
+                    "image_urls":["/static/images/Unit8_main.png","/static/images/Unit8_ls1.png","/static/images/Unit8_ls2.png","/static/images/Unit8_ls3.png"]
+                    
+
+
+                      }
 
 
 ]
