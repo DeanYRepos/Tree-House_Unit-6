@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/DeanYRepos/Tree-House_Unit-6#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "missing": "0.0.1",
     "pug": "^2.0.4"
   }
